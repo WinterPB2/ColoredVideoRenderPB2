@@ -31,8 +31,18 @@ Check out the YouTube video showcasing the "Bad Apple" animation in Plazma Burst
    git clone https://github.com/WinterPB2/ColoredVideoRenderPB2
    cd ColoredVideoRenderPB2
    ```
+2. Create a virtual environment (Optional - Recommended)
+   ```bash
+   python -m venv env  
+   pip install --upgrade pip
 
-2. Ensure you have OpenCV installed. You can install it via pip:
+   # Windows
+   cd env/Scripts  
+   activate.bat
+   # Linux
+   source env/bin/activate  
+   ```
+3. Ensure you have OpenCV installed. You can install it via pip:
    ```bash
    pip install opencv-python
    pip install moviepy
@@ -79,6 +89,7 @@ Feel free to contribute to this project by submitting issues or pull requests.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
 
