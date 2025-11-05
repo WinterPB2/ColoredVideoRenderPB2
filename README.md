@@ -8,7 +8,7 @@ This project converts a video file (originally "bad_apple.mp4") into a series of
 
 Check out the YouTube video showcasing the "Bad Apple" animation in Plazma Burst 2 side by side with the original:
 
-[Watch the Bad Apple Animation by BLAST3R](https://youtu.be/9Aqt_xMsmT4)
+[Watch the Bad Apple Animation by BLAST3R](https://youtu.be/9Aqt_xMsmT4)  
 [Watch the AMV Animation by Winter](https://www.youtube.com/watch?v=GkzCzspNSyc)
 ## Features
 
@@ -79,6 +79,7 @@ Feel free to contribute to this project by submitting issues or pull requests.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
 
