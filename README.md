@@ -13,9 +13,9 @@ Check out the YouTube video showcasing the "Bad Apple" animation in Plazma Burst
 ## Features
 
 - Extract frames from a video at your desired FPS.
-- Categorize pixels in each frame as either black or white.
+- Categorize pixels in each frame based on configurable color palette (will use a LOT of triggers and timers).
 - Generate a PB2-compatible map in XML format based on the pixel data.
-- Customizable aspect ratio and frame rate for the frame extraction and mapping process.
+- Customizable color palette, aspect ratio and frame rate for the frame extraction and mapping process.
 
 ## Files
 
@@ -79,6 +79,7 @@ Feel free to contribute to this project by submitting issues or pull requests.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
 
