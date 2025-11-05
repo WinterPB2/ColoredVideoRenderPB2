@@ -1,0 +1,8 @@
+Video information:
+
+58x33 = 1914 pixels
+4:3 aspect ratio
+15 FPS
+1020 frames
+Video Length: 1020/15 = 68s = 1:08
+Palette size: 16
