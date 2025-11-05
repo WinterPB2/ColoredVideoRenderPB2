@@ -1,6 +1,6 @@
 # PB2 Video to Map Converter - With Color Palette
 
-https://github.com/WinterPB2/ColoredVideoRenderPB2/blob/main/assets/map_preview_jpg.jpg?raw=true
+![preview](https://github.com/WinterPB2/ColoredVideoRenderPB2/blob/main/assets/map_preview_jpg.jpg?raw=true)
 
 This project converts a video file (specifically "bad_apple.mp4") into a series of frames and generates a map file for Plazma Burst 2 (PB2) based on the pixel data from these frames. The project includes scripts for frame extraction, pixel categorization, and XML map generation.
 
@@ -79,4 +79,5 @@ Feel free to contribute to this project by submitting issues or pull requests.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
